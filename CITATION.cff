@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Same Tile, Same Day: code and data"
+authors:
+  - family-names: Verma
+    given-names: Suryansh
+    affiliation: Delhi Technological University
+  - family-names: Kumar
+    given-names: Mayank
+    affiliation: Delhi Technological University
+  - family-names: Ali
+    given-names: Shahzeb
+    affiliation: Delhi Technological University
+  - family-names: Vishwakarma
+    given-names: Dinesh Kumar
+    affiliation: Delhi Technological University
+repository-code: "https://github.com/1Suryansh1/same-tile-same-day-ben14k"
+license: Apache-2.0
+preferred-citation:
+  type: conference-paper
+  title: "Same Tile, Same Day: Protocol Drift and a Pixel-Free Shortcut in BEN-14K Sensor-Agnostic Retrieval"
+  authors:
+    - family-names: Verma
+      given-names: Suryansh
+    - family-names: Kumar
+      given-names: Mayank
+    - family-names: Ali
+      given-names: Shahzeb
+    - family-names: Vishwakarma
+      given-names: Dinesh Kumar
+  collection-title: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops"
+  conference:
+    name: "CV4EO Workshop at WACV 2027"
+  year: 2027
